@@ -17,4 +17,4 @@
 
 
 
-> [Visit this website](https://business-landing-page1.netlify.app/)
+> [Visit this website](https://business-hosting1.netlify.app/)
